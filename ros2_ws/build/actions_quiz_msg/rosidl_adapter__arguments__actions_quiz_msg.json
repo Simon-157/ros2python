@@ -1,0 +1,6 @@
+{
+  "package_name": "actions_quiz_msg",
+  "non_idl_tuples": [
+    "/home/user/ros2_ws/src/actions_quiz_msg:action/Distance.action"
+  ]
+}

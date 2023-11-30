@@ -1,0 +1,6 @@
+1701386362.9091632 [INFO] [launch]: All log files can be found below /home/user/.ros/log/2023-11-30-23-19-22-908239-3_simulation-217
+1701386362.9093497 [INFO] [launch]: Default logging verbosity is set to INFO
+1701386363.0883334 [INFO] [gazebo-1]: process started with pid [237]
+1701386363.0886178 [INFO] [robot_state_publisher-2]: process started with pid [239]
+1701386363.0887935 [INFO] [service-3]: process started with pid [241]
+1701386363.0889449 [INFO] [service2-4]: process started with pid [243]

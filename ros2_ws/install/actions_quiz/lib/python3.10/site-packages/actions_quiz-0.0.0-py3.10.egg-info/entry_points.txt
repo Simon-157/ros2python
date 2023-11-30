@@ -1,0 +1,4 @@
+[console_scripts]
+actions_quiz_client_node = actions_quiz.actions_quiz_client_node:main
+actions_quiz_server_node = actions_quiz.actions_quiz_server_node:main
+
